@@ -1,4 +1,4 @@
-//https://codeforces.com/contest/276/problem/C
+//https://codeforces.com/contest/1510/problem/K
 
 package codeforce;
 import java.util.*;
